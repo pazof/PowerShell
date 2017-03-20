@@ -30,6 +30,7 @@ Install the following packages for the toolchain:
 - `cmake`
 - `make`
 - `g++`
+- Google's framework for writing C++ tests: `libgtest-dev` from a Debian-like apt repro
 
 Unfortunately, the `apt-get` feed for `dotnet` has been deprecated,
 and the latest version is only distributed in the form of three separate packages, 
